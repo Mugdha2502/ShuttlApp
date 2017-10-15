@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShuttlApp</string>
+
+    <string name="action_like">Like</string>
+    <string name="feed_type_quote">Quote</string>
+    <string name="feed_type_people">People</string>
+    <string name="feed_type_place">Place</string>
+
+    <string name="desscription">Description</string>
+</resources>
